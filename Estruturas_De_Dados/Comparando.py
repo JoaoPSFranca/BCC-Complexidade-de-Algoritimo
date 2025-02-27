@@ -21,7 +21,7 @@ def formatar_tempo(milisegundos):
 def comparar_fila_pilha():
     pilha = []
     start_time = time.time()
-    for i in range(5    00000):
+    for i in range(500000):
         pilha.append(1)
     while pilha:
         pilha.pop()
