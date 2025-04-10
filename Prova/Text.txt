@@ -1,0 +1,13 @@
+1 -
+  a)
+    A - Melhor: 1
+        Pior: n²
+        Médio: n/2 * n/2 = n²/4
+    B - Melhor: 1
+        Pior: log²(n)
+        Médio: log²(n)/2
+    C - Melhor: 1
+        Pior: n * !n
+        Médio: n/2
+
+  b) O código B, pois tem complexidade de Log(n)
