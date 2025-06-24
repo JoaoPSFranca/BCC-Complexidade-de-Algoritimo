@@ -1,7 +1,7 @@
 import time
 import math
 from functools import lru_cache
-from Formatador import formatar_tempo
+from Projeto_Geral.utils.formatador import formatar_tempo
 
 def fibonacci_iterativo(n):
     if n <= 1:

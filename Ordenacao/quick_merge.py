@@ -1,7 +1,6 @@
-import random
 import time
 
-from Formatador import formatar_tempo
+from Projeto_Geral.utils.formatador import formatar_tempo
 from Ordenator import *
 
 def sorts(n):

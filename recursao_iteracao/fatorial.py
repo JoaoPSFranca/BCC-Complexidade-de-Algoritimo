@@ -1,5 +1,5 @@
 import time
-from Formatador import formatar_tempo
+from Projeto_Geral.utils.formatador import formatar_tempo
 
 def fatorial_iterativo(n):
     resultado = 1

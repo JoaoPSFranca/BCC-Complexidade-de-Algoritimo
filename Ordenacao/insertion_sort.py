@@ -1,7 +1,7 @@
 import random
 import time
 
-from Formatador import formatar_tempo
+from Projeto_Geral.utils.formatador import formatar_tempo
 
 def bubble_sort(arr):
     n = len(arr)
